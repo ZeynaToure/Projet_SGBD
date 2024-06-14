@@ -1,0 +1,47 @@
+<dblp>
+    <article mdate="2017-05-10" key="journals/cacm/Smith89">
+        <author>John Smith</author>
+        <title>Example Article</title>
+        <journal>Communications of the ACM</journal>
+        <year>1989</year>
+        <volume>32</volume>
+        <number>1</number>
+        <pages>11-15</pages>
+        <url>db/journals/cacm/Smith89.html</url>
+        <ee>http://doi.acm.org/10.1145/63238.63239</ee>
+    </article>
+    <article mdate="2017-05-10" key="journals/cacm/Doe90">
+        <author>Jane Doe</author>
+        <title>Another Example Article</title>
+        <journal>Communications of the ACM</journal>
+        <year>1990</year>
+        <volume>33</volume>
+        <number>2</number>
+        <pages>16-21</pages>
+        <url>db/journals/cacm/Doe90.html</url>
+        <ee>http://doi.acm.org/10.1145/63238.63240</ee>
+    </article>
+</dblp>
+<article mdate="2017-05-10" key="journals/cacm/Johnson91">
+    <author>Michael Johnson</author>
+    <title>Advanced Techniques in Programming</title>
+    <journal>Communications of the ACM</journal>
+    <year>1991</year>
+    <volume>34</volume>
+    <number>3</number>
+    <pages>22-27</pages>
+    <url>db/journals/cacm/Johnson91.html</url>
+    <ee>http://doi.acm.org/10.1145/63238.63241</ee>
+</article>
+
+<article mdate="2017-05-10" key="journals/cacm/Williams92">
+    <author>Sarah Williams</author>
+    <title>Data Analysis and Visualization</title>
+    <journal>Communications of the ACM</journal>
+    <year>1992</year>
+    <volume>35</volume>
+    <number>4</number>
+    <pages>28-33</pages>
+    <url>db/journals/cacm/Williams92.html</url>
+    <ee>http://doi.acm.org/10.1145/63238.63242</ee>
+</article>

@@ -1,0 +1,17 @@
+{
+  "name": "projetmongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^4.17.2",
+    "xml2js": "^0.6.2"
+  }
+}

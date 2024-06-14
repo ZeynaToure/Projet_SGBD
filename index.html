@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liste des auteurs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #e3a6ae; /* Rose clair */
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2d7dc; /* Rose foncé */
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #fbd8df; /* Rose clair */
+        }
+
+        tr:hover {
+            background-color: #f9bed2; /* Rose plus foncé au survol */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Liste des auteurs</h1>
+        <table id="authorsTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nom</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Les données seront insérées ici par script.js -->
+            </tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
